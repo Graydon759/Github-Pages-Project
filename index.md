@@ -12,7 +12,7 @@ An example of code (C++) of what a typical for loop looks like:
 This bit of code would print out 0 to 9 with a space in between them
 
 Something that I like besides coding is playing video games. I have been playing video games for most of my life and have a wide variety. My favorite game is Minecraft. The following is an image of Minecraft.
-![Screenshot of minecraft that I found online by googling minecraft](https://www.google.com/imgres?q=minecraft&imgurl=https%3A%2F%2Fxxboxnews.blob.core.windows.net%2Fprod%2Fsites%2F2%2F2024%2F05%2FHero-8c18da7c19a1a8811ddb.jpg&imgrefurl=https%3A%2F%2Fnews.xbox.com%2Fen-us%2F2024%2F05%2F17%2Fminecraft-15-years-most-important-moments%2F&docid=_hGu7Sb0rQnaAM&tbnid=fVRAOlgDngX6aM&vet=12ahUKEwit-oTXosqMAxWgKEQIHeT-KEcQM3oECDYQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwit-oTXosqMAxWgKEQIHeT-KEcQM3oECDYQAA)
+![Screenshot of minecraft that I found online by googling minecraft](/Users/graydon/Code/Github-Pages-Project-1/images/Minecraft Image.jpeg)
 A cool fact about minecraft is that it is the highest selling game of all time (well at least until GTA6 comes out).
 
 **Required Things and the order in which I completed them**
