@@ -11,9 +11,9 @@ An example of code (C++) of what a typical for loop looks like:
 ```
 This bit of code would print out 0 to 9 with a space in between them
 
-Something that I like besides coding is playing video games. I have been playing video games for most of my life and have a wide variety. My favorite game is Minecraft. The following is an image of Minecraft.
-![Screenshot of minecraft that I found online by googling minecraft](images/Minecraft%20Image.jpeg)
-A cool fact about minecraft is that it is the highest selling game of all time (well at least until GTA6 comes out).
+Something that I like besides coding is playing video games. I have been playing video games for most of my life and have a wide variety. My favorite game is Minecraft. The following is an image of Minecraft.\
+![Screenshot of minecraft that I found online by googling minecraft](images/Minecraft%20Image.jpeg)\
+A cool fact about minecraft is that it is the highest selling game of all time (well at least until GTA6 comes out).\
 
 My favorite foods listed in order:
 1. Sushi
@@ -47,5 +47,5 @@ Places I've travelled to:
 ~~Task lists~~\
 
 This page about myself was made using [GitHub Pages](https://pages.github.com/).\
-[Link to the README file in this repo](README.md)\
+Link to the [README](README.md) file in this repo\
 Link to the top of the page: [Link Text](#a-page-about-me-graydon-leongkaye).
